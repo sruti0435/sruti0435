@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Chattea!
+## 👋 Hi, I'm Sruti!
 
 I'm a Data Science enthusiast and budding Python developer who enjoys turning messy data into meaningful insights.  
 Currently sharpening my machine learning, analytics, and software development skills while building real-world projects.
