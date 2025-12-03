@@ -22,10 +22,10 @@ Currently sharpening my machine learning, analytics, and software development sk
 - Scalable system design (beginner)  
 
 ### 🛠 Tech Stack
-- **Languages:** Python, C/C++  
+- **Languages:** Python, SQL
 - **ML/DS:** Pandas, NumPy, Matplotlib, Scikit-learn  
 - **Databases:** PostgreSQL  
-- **Tools:** VS Code, Git, GitHub, Postman  
+- **Tools:** VS Code, Git, GitHub, MLflow 
 - **Other:** Microsoft Teams Apps, Adaptive Cards, OpenAI APIs  
 
 ### 📬 Contact  
