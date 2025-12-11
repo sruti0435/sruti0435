@@ -1,33 +1,78 @@
 ## 👋 Hi, I'm Sruti!
 
-I'm a Data Science enthusiast and budding Python developer who enjoys turning messy data into meaningful insights.  
-Currently sharpening my machine learning, analytics, and software development skills while building real-world projects.
+I'm an AI & Data Science student passionate about building **end-to-end machine learning systems**, optimizing ML pipelines, and creating practical AI-driven applications. I enjoy turning complex datasets into deployable solutions, focusing on **explainability, automation, and real-world impact**.
+
+---
 
 ### 🚀 What I’m Working On
-- Learning Data Structures & Algorithms (Python + C/C++)
-- Building ML-powered applications and experimenting with end-to-end workflows
-- Working with tools like Pandas, NumPy, Scikit-learn, PostgreSQL, and FastAPI
-- Improving clean coding, architecture, and problem-solving skills
+- Designing **production-ready ML workflows** with MLflow, FastAPI, Docker & PostgreSQL  
+- Building explainable AI systems using **SHAP**, with optimized computation and storage  
+- Developing automation tools such as  
+  - WhatsApp document-verification agent (FastAPI + Twilio)  
+  - Microsoft Teams mood-meter bot with anonymous response tracking  
+- Experimenting with:  
+  - **YOLO** for accident detection  
+  - **LLM + deep learning** for research paper recommendation
+
+---
 
 ### 📚 What I’m Learning
-- Advanced Python & backend fundamentals  
-- Exploratory Data Analysis (EDA)  
-- Writing production-ready code and cloud basics  
-- Building apps for Microsoft Teams and integrating AI agents
+- Vector embeddings, RAG pipelines & LLM optimization  
+- Scalable backend patterns for AI systems  
+- Real-time inference and event-driven automation workflows  
+- Advanced Python, clean coding & architectural patterns  
+
+---
 
 ### 💡 Interests
-- Machine Learning  
+- Applied Machine Learning & ML Engineering  
+- Explainable AI (XAI)  
+- Computer Vision & NLP  
+- AI-powered workflow automation  
 - Data Engineering fundamentals  
-- Productive automations  
-- Scalable system design (beginner)  
+
+---
 
 ### 🛠 Tech Stack
-- **Languages:** Python, SQL
-- **ML/DS:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Databases:** PostgreSQL  
-- **Tools:** VS Code, Git, GitHub, MLflow 
-- **Other:** Microsoft Teams Apps, Adaptive Cards, OpenAI APIs  
 
-### 📬 Contact  
-If you'd like to connect or collaborate, feel free to reach out!
+**Languages:**  
+Python, SQL  
+
+**Machine Learning / AI:**  
+Scikit-learn, Pandas, NumPy, SHAP, YOLO, NLP, Embeddings, GenAI  
+
+**Backend & Deployment:**  
+FastAPI, Docker, PostgreSQL, MLflow  
+
+**Tools & Frameworks:**  
+Git, GitHub, Tableau, LangChain, LangGraph  
+
+---
+
+### 📂 Projects
+Here are a few things I’ve built:
+
+- **Live Accident Detection using YOLO**  
+  Real-time accident detection from video feeds using YOLO, OpenCV, and alerting mechanisms.
+
+- **Research Paper Recommendation System (LLM + DL)**  
+  Personalized recommendations using vector embeddings, user profiles, and citation networks.
+
+- **WhatsApp Document Verification Agent**  
+  Automated document checker using FastAPI + Twilio with Google Forms integration.
+
+- **Teams Mood-Meter Bot**  
+  Daily check-in bot for organizations; anonymous response storage & HR insights.
+
+---
+
+### 📬 Connect With Me
+I'm always open to collaborating on AI/ML projects, automation ideas, or anything exciting in applied AI!
+
+- **Email:** srutitotawad@gmail.com  
+
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and reach out if something interests you.*
 
